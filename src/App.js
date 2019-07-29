@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          React Autodeploy with zeit
+          React Autodeploy with zeit, TEST
         </p>
       </header>
     </div>
